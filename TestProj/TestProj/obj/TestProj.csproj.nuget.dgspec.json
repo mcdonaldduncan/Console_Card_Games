@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dfmcd\\Documents\\GitHub\\WorkshopResources\\TestProj\\TestProj\\TestProj.csproj": {}
+    "C:\\Users\\dfmcd\\Documents\\GitHub\\Console_Card_Games\\TestProj\\TestProj\\TestProj.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dfmcd\\Documents\\GitHub\\WorkshopResources\\TestProj\\TestProj\\TestProj.csproj": {
+    "C:\\Users\\dfmcd\\Documents\\GitHub\\Console_Card_Games\\TestProj\\TestProj\\TestProj.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dfmcd\\Documents\\GitHub\\WorkshopResources\\TestProj\\TestProj\\TestProj.csproj",
+        "projectUniqueName": "C:\\Users\\dfmcd\\Documents\\GitHub\\Console_Card_Games\\TestProj\\TestProj\\TestProj.csproj",
         "projectName": "TestProj",
-        "projectPath": "C:\\Users\\dfmcd\\Documents\\GitHub\\WorkshopResources\\TestProj\\TestProj\\TestProj.csproj",
+        "projectPath": "C:\\Users\\dfmcd\\Documents\\GitHub\\Console_Card_Games\\TestProj\\TestProj\\TestProj.csproj",
         "packagesPath": "C:\\Users\\dfmcd\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dfmcd\\Documents\\GitHub\\WorkshopResources\\TestProj\\TestProj\\obj\\",
+        "outputPath": "C:\\Users\\dfmcd\\Documents\\GitHub\\Console_Card_Games\\TestProj\\TestProj\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dfmcd\\AppData\\Roaming\\NuGet\\NuGet.Config",

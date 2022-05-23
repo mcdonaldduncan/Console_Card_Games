@@ -25,3 +25,17 @@ C:\Users\dfmcd\Documents\GitHub\WorkshopResources\TestProj\TestProj\obj\Debug\ne
 C:\Users\dfmcd\Documents\GitHub\WorkshopResources\TestProj\TestProj\obj\Debug\netcoreapp3.1\TestProj.dll
 C:\Users\dfmcd\Documents\GitHub\WorkshopResources\TestProj\TestProj\obj\Debug\netcoreapp3.1\TestProj.pdb
 C:\Users\dfmcd\Documents\GitHub\WorkshopResources\TestProj\TestProj\obj\Debug\netcoreapp3.1\TestProj.genruntimeconfig.cache
+C:\Users\dfmcd\Documents\GitHub\Console_Card_Games\TestProj\TestProj\bin\Debug\netcoreapp3.1\TestProj.exe
+C:\Users\dfmcd\Documents\GitHub\Console_Card_Games\TestProj\TestProj\bin\Debug\netcoreapp3.1\TestProj.deps.json
+C:\Users\dfmcd\Documents\GitHub\Console_Card_Games\TestProj\TestProj\bin\Debug\netcoreapp3.1\TestProj.runtimeconfig.json
+C:\Users\dfmcd\Documents\GitHub\Console_Card_Games\TestProj\TestProj\bin\Debug\netcoreapp3.1\TestProj.runtimeconfig.dev.json
+C:\Users\dfmcd\Documents\GitHub\Console_Card_Games\TestProj\TestProj\bin\Debug\netcoreapp3.1\TestProj.dll
+C:\Users\dfmcd\Documents\GitHub\Console_Card_Games\TestProj\TestProj\bin\Debug\netcoreapp3.1\TestProj.pdb
+C:\Users\dfmcd\Documents\GitHub\Console_Card_Games\TestProj\TestProj\obj\Debug\netcoreapp3.1\TestProj.csproj.AssemblyReference.cache
+C:\Users\dfmcd\Documents\GitHub\Console_Card_Games\TestProj\TestProj\obj\Debug\netcoreapp3.1\TestProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dfmcd\Documents\GitHub\Console_Card_Games\TestProj\TestProj\obj\Debug\netcoreapp3.1\TestProj.AssemblyInfoInputs.cache
+C:\Users\dfmcd\Documents\GitHub\Console_Card_Games\TestProj\TestProj\obj\Debug\netcoreapp3.1\TestProj.AssemblyInfo.cs
+C:\Users\dfmcd\Documents\GitHub\Console_Card_Games\TestProj\TestProj\obj\Debug\netcoreapp3.1\TestProj.csproj.CoreCompileInputs.cache
+C:\Users\dfmcd\Documents\GitHub\Console_Card_Games\TestProj\TestProj\obj\Debug\netcoreapp3.1\TestProj.dll
+C:\Users\dfmcd\Documents\GitHub\Console_Card_Games\TestProj\TestProj\obj\Debug\netcoreapp3.1\TestProj.pdb
+C:\Users\dfmcd\Documents\GitHub\Console_Card_Games\TestProj\TestProj\obj\Debug\netcoreapp3.1\TestProj.genruntimeconfig.cache

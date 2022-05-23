@@ -17,11 +17,13 @@ namespace TestProj
         {
             bool persist = true;
 
-            Print("Choose a Game!\n");
-            Print("0: War\n1: High-Low\n2: BlackJack\n3: Exit");
+            
 
             while (persist)
             {
+                Print("Choose a Game!\n");
+                Print("0: War\n1: High-Low\n2: BlackJack\n3: Exit");
+
                 string playerInput = ReadLine();
 
                 switch (playerInput)

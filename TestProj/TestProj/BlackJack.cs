@@ -14,6 +14,7 @@ namespace TestProj
 
         public override void Play()
         {
+            Clear();
             InstantiateDeck();
             RunGame();
         }
@@ -42,7 +43,7 @@ namespace TestProj
         // Sum the corrected values of all cards in hand
         int SumHand(Person subject)
         {
-            CheckForAces(subject, SumHand(subject));
+            
             int handSum = 0;
             for (int i = 0; i < subject.hand.Count; i++)
             {
@@ -101,10 +102,12 @@ namespace TestProj
 
             if (playerInput == "y" || playerInput == "yes" || playerInput == "hit")
             {
+                Clear();
                 return true;
             }
             else if (playerInput == "n" || playerInput == "no" || playerInput == "pass" || playerInput == "stand")
             {
+                Clear();
                 return false;
             }
             else
@@ -135,6 +138,7 @@ namespace TestProj
         void RunGame()
         {
             DealInitialHands();
+            PlayerTurn();
         }
 
         void BlackJackHand()
@@ -149,13 +153,13 @@ namespace TestProj
 
         void PlayerTurn()
         {
+            CheckForAces(player, SumHand(player));
+
             // While hand is less than 21 print hand and check for hit. On pass, exit loop
             while (SumHand(player) < 21)
             {
                 // Print the cards in the hand
                 PrintPlayerHand();
-
-                Pause();
 
                 // Request a hit or pass, 
                 if (HitOrPass())
