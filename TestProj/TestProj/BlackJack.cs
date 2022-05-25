@@ -116,7 +116,6 @@ namespace TestProj
                 Print("I didnt catch that, try again");
                 return HitOrPass();
             }
-
         }
 
         //bool CheckDealerNatural()
