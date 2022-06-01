@@ -150,6 +150,7 @@ namespace TestProj
 
         }
 
+
         void PlayerTurn()
         {
             CheckForAces(player, SumHand(player));
