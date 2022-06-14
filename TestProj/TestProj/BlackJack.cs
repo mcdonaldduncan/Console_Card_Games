@@ -183,5 +183,21 @@ namespace TestProj
                 Bust();
             }
         }
+
+        void DealerHand()
+        {
+            if (SumHand(dealer) < 15)
+            {
+                DealCardFromDeck(dealer);
+            }
+            else
+            {
+                
+            }
+
+
+
+
+        }
     }
 }
