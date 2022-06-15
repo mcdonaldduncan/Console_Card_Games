@@ -192,7 +192,10 @@ namespace TestProj
             }
             else
             {
-                
+                if (SumHand(dealer) > 21)
+                {
+
+                }
             }
 
 
