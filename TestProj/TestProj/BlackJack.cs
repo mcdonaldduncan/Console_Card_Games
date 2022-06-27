@@ -186,17 +186,20 @@ namespace TestProj
 
         void DealerHand()
         {
-            if (SumHand(dealer) < 15)
+            while (SumHand(dealer) < 21)
             {
-                DealCardFromDeck(dealer);
-            }
-            else
-            {
-                if (SumHand(dealer) > 21)
+                if (SumHand(dealer) < 15)
                 {
-
+                    DealCardFromDeck(dealer);
+                }
+                else
+                {
+                    break;
                 }
             }
+
+            if ()
+            
 
 
 
