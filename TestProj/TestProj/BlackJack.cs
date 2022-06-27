@@ -105,7 +105,7 @@ namespace TestProj
                 Clear();
                 return true;
             }
-            else if (playerInput == "n" || playerInput == "no" || playerInput == "pass" || playerInput == "stand")
+            else if (playerInput == "n" || playerInput == "no" || playerInput == "pass" || playerInput == "stand" || playerInput == "no more")
             {
                 Clear();
                 return false;
@@ -188,7 +188,7 @@ namespace TestProj
         {
             while (SumHand(dealer) < 21)
             {
-                if (SumHand(dealer) < 15)
+                if (SumHand(dealer) <= 16)
                 {
                     DealCardFromDeck(dealer);
                 }
@@ -198,11 +198,14 @@ namespace TestProj
                 }
             }
 
-            if ()
-            
+            if (SumHand(dealer) > 21)
+            {
 
+            }
+            else if(SumHand(dealer) == 21)
+            {
 
-
+            }
 
         }
     }
