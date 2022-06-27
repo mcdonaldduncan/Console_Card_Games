@@ -200,7 +200,7 @@ namespace TestProj
 
             if (SumHand(dealer) > 21)
             {
-
+                Bust();
             }
             else if(SumHand(dealer) == 21)
             {
