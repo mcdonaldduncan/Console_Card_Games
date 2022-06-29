@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "tSpIliPQLxP/F/U0v/VIETf4im0OXi311YIh+Img8FlFwUHSaDjVtVqsluq1BqFcXClyTFMWE1WTM7HqWWCRpQ==",
+  "dgSpecHash": "Fx6HFPIzKY88trox1XeqelYZFm8CShXJ3hwS98lPhsaRqEiTgbAJF8kzjQ7k1He+JoXOlsKwKobAU2Xg4nhQTw==",
   "success": true,
   "projectFilePath": "C:\\Users\\dfmcd\\Documents\\GitHub\\Console_Card_Games\\TestProj\\TestProj\\TestProj.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\dfmcd\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.26\\microsoft.netcore.app.host.win-x64.3.1.26.nupkg.sha512"
+  ],
   "logs": []
 }
