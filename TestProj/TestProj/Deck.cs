@@ -13,6 +13,10 @@ namespace TestProj
 
         public List<Card> cards = new List<Card>();
 
+
+        // Add a constructor you dummy!!
+        
+
         // Generate a deck of cards based on suit and values
         public void AssembleDeck()
         {
