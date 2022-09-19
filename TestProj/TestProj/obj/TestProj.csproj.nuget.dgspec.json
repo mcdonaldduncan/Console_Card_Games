@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dfmcd\\Documents\\GitHub\\Console_Card_Games\\TestProj\\TestProj\\TestProj.csproj": {}
+    "C:\\Users\\dfmcd98\\Documents\\GitHub\\Console_Card_Games\\TestProj\\TestProj\\TestProj.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dfmcd\\Documents\\GitHub\\Console_Card_Games\\TestProj\\TestProj\\TestProj.csproj": {
+    "C:\\Users\\dfmcd98\\Documents\\GitHub\\Console_Card_Games\\TestProj\\TestProj\\TestProj.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dfmcd\\Documents\\GitHub\\Console_Card_Games\\TestProj\\TestProj\\TestProj.csproj",
+        "projectUniqueName": "C:\\Users\\dfmcd98\\Documents\\GitHub\\Console_Card_Games\\TestProj\\TestProj\\TestProj.csproj",
         "projectName": "TestProj",
-        "projectPath": "C:\\Users\\dfmcd\\Documents\\GitHub\\Console_Card_Games\\TestProj\\TestProj\\TestProj.csproj",
-        "packagesPath": "C:\\Users\\dfmcd\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dfmcd\\Documents\\GitHub\\Console_Card_Games\\TestProj\\TestProj\\obj\\",
+        "projectPath": "C:\\Users\\dfmcd98\\Documents\\GitHub\\Console_Card_Games\\TestProj\\TestProj\\TestProj.csproj",
+        "packagesPath": "C:\\Users\\dfmcd98\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dfmcd98\\Documents\\GitHub\\Console_Card_Games\\TestProj\\TestProj\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\dfmcd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dfmcd98\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -49,18 +49,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[3.1.26, 3.1.26]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
