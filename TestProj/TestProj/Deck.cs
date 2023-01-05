@@ -13,12 +13,7 @@ namespace TestProj
 
         public List<Card> cards = new List<Card>();
 
-
-        // Add a constructor you dummy!!
-        
-
-        // Generate a deck of cards based on suit and values
-        public void AssembleDeck()
+        public Deck()
         {
             for (int i = 0; i < suits.Length; i++)
             {
@@ -27,6 +22,19 @@ namespace TestProj
                     cards.Add(new Card(values[n], suits[i]));
                 }
             }
+            Shuffle();
+        }
+
+        public Deck(string[] _suits, int[] _values)
+        {
+            for (int i = 0; i < _suits.Length; i++)
+            {
+                for (int n = 0; n < _values.Length; n++)
+                {
+                    cards.Add(new Card(_values[n], _suits[i]));
+                }
+            }
+            Shuffle();
         }
 
         // Print entire deck to console

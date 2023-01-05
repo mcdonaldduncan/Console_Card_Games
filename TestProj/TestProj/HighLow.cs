@@ -10,7 +10,6 @@ namespace TestProj
     {
         public override void Play()
         {
-            InstantiateDeck();
             StartGame();
         }
 

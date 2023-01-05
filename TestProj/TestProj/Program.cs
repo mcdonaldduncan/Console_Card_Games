@@ -10,9 +10,6 @@ namespace TestProj
         {
             Menu menu = new Menu();
             menu.MenuLayout();
-
-            
-            
         }
     }
 }

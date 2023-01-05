@@ -15,7 +15,6 @@ namespace TestProj
         public override void Play()
         {
             Clear();
-            InstantiateDeck();
             RunGame();
         }
 
@@ -209,20 +208,5 @@ namespace TestProj
 
         }
 
-        //Blackjack
-        //Dealer hits until 17 or higher
-        //Player hits until 21 or higher
-        //If player has 21, player wins
-        //If dealer has 21, dealer wins
-        //If player has 21 and dealer has 21, tie
-        //If player has 21 and dealer has less than 21, player wins
-        //If player has less than 21 and dealer has 21, dealer wins
-        //If player has less than 21 and dealer has less than 21, compare hands
-        //If player has less than 21 and dealer has less than 21, player with higher hand wins
-        //If player has less than 21 and dealer has less than 21, dealer with higher hand wins
-        //If player has less than 21 and dealer has less than 21, tie
-        //If player has less than 21 and dealer has less than 21, tie
-        //If player has less than 21 and dealer has less than 21, tie
-        
     }
 }
